@@ -46,7 +46,7 @@ class Books extends Component {
       <div>
         <Jumbotron>
           <h1>Google Books Search</h1>
-          <h5>Search for and Save Books of Interest</h5>
+          <h5>Search for any books of your interest then save it in your list.</h5>
         </Jumbotron>
       <Container fluid>
       <Row>
