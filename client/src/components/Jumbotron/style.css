@@ -1,0 +1,12 @@
+.jumbotron {
+    width: 100%;
+    min-height: 300px;
+    margin: 0px;
+    margin-bottom: 5%;
+    display: table;
+    padding: 180px 20px;
+    color: #ffffff;	    
+    background-image: url("https://media.timeout.com/images/105628370/image.jpg");
+    background-size: cover;
+	background-attachment: fixed;
+}
